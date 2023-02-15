@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+p {
+    font-size: 25px;
+}
+
+#primeiro-p {
+    font-size: 30px;
+}
+
+.paragrafo-bold {
+    font-weight: 700;
+}
